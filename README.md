@@ -1,16 +1,11 @@
-# todoapp
+# TodoApp
 
-Flutter ToDoApp
+Bu basit TodoApp, Flutter ile geliştirilmiştir. Kullanıcıların yapılacaklar listesini oluşturmasına, düzenlemesine ve tamamlamasına olanak tanır.
 
-## Getting Started
+**Özellikler:**
 
-This project is a starting point for a Flutter application.
+* **Görev Ekleme:** Yeni görevler ekleme
+* **Görev Düzenleme:** Mevcut görevleri düzenleme
+* **Görev Tamamlama:** Görevleri tamamlama olarak işaretleme
+* **Görev Silme:** İstenmeyen görevleri silme
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
